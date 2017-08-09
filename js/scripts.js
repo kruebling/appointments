@@ -7,7 +7,7 @@ $(document).ready(function() {
     var endTimeInput = $("input#endTime").val();
 
     $(".name").text(nameInput);
-    $(".desciption").text(descriptionInput);
+    $(".description").text(descriptionInput);
     $(".date").text(dateInput);
     $(".startTime").text(startTimeInput);
     $(".endTime").text(endTimeInput);
